@@ -1,0 +1,12 @@
+.maincontain{
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+    justify-content: space-evenly;
+    height: 20vh;
+  
+}
+.clickbtn{
+    width: 80px;
+    
+}
